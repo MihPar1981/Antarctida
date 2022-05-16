@@ -1,0 +1,22 @@
+.rty {
+    text-align: center;
+    font-size: 25px;
+}
+
+p {
+    text-align: justify;
+    font-size: 25px;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+}
+
+body {
+    background-color: deepskyblue;
+}
